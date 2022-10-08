@@ -1,0 +1,8 @@
+server:
+  port: 4035
+spring:
+  application:
+    name: like-service
+logging:
+  level:
+    com.maveric: info
